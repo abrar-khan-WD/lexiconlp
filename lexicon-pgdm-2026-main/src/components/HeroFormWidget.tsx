@@ -51,7 +51,7 @@ const HeroFormWidget = () => {
     <div className="w-full">
       <div
         className="npf_wgts w-full min-h-[400px]"
-        data-height="400px"
+        data-height="410px"
         data-w="104bf25d3c65c756d2c4175bdddcc6c5"
       ></div>
     </div>

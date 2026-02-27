@@ -193,12 +193,7 @@ const CoursesSection = () => {
                   >
                     RESERVE YOUR SEAT <ArrowRight className="w-4 h-4" />
                   </button>
-                  <button
-                    onClick={() => window.dispatchEvent(new CustomEvent(prog.modalEvent))}
-                    className="w-full py-3 text-[#4A5568] text-xs font-bold tracking-widest hover:text-[#002244] transition-colors uppercase"
-                  >
-                    Download Detailed Prospectus
-                  </button>
+                  
                 </div>
               </motion.div>
             );
