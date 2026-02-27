@@ -79,7 +79,7 @@ const CoursesSection = () => {
           <span className="inline-block text-[#004E7E] text-sm font-semibold tracking-widest uppercase mb-4 border border-[#004E7E]/30 rounded-full px-4 py-1 bg-[#004E7E]/5">
             Our Programs
           </span>
-          <h2 className="font-display text-[48px] leading-tight font-black text-[#002244] uppercase tracking-wide">
+          <h2 className="font-display text-[40px] leading-tight font-black text-[#002244] uppercase tracking-wide">
             Admission <span className="text-[#004E7E]">Information</span>
           </h2>
           <p className="text-[#4A5568] text-base mt-4 max-w-2xl mx-auto leading-relaxed">
@@ -125,7 +125,7 @@ const CoursesSection = () => {
 
                   {/* Title */}
                   <div className="flex items-end gap-3 mb-1">
-                    <h3 className="text-5xl font-black text-[#002244] font-display tracking-tight">{prog.label}</h3>
+                    <h3 className="text-4xl md:text-5xl font-black text-[#002244] font-display tracking-tight">{prog.label}</h3>
                     <span
                       className="mb-2 text-[10px] font-bold px-2 py-0.5 rounded-full"
                       style={{ backgroundColor: prog.accentLight + "33", color: prog.accentLight }}

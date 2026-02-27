@@ -123,7 +123,7 @@ const TestimonialsSection = () => {
                     className="text-center mb-12"
                 >
                     <span className="text-[#004E7E] text-sm font-semibold tracking-widest uppercase font-body">Voices of Success</span>
-                    <h2 className="font-display text-[48px] leading-tight font-black text-[#002244] uppercase tracking-wide mt-3">
+                    <h2 className="font-display text-[40px] leading-tight font-black text-[#002244] uppercase tracking-wide mt-3">
                         What They <span className="text-[#004E7E]">Say</span>
                     </h2>
                 </motion.div>

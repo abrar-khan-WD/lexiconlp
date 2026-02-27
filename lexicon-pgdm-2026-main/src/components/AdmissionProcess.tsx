@@ -51,7 +51,7 @@ const AdmissionProcess = () => {
                     <span className="text-[#004E7E] text-sm font-bold tracking-[0.2em] uppercase font-display bg-[#004E7E]/5 px-4 py-1.5 rounded-full">
                         Guided Journey
                     </span>
-                    <h2 className="font-display text-[48px] font-black text-[#002244] mt-3 leading-tight uppercase tracking-wide">
+                    <h2 className="font-display text-[40px] font-black text-[#002244] mt-3 leading-tight uppercase tracking-wide">
                         Admission <span className="text-[#004E7E]">Process</span>
                     </h2>
                 </motion.div>

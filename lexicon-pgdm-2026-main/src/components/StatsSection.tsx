@@ -118,7 +118,7 @@ const StatsSection = () => {
             Placement Highlights
           </span>
 
-          <h2 className="font-display text-[52px] leading-tight font-black uppercase tracking-wide">
+          <h2 className="font-display text-[40px] leading-tight font-black uppercase tracking-wide">
             <span className="text-[#002244]" >Numbers That </span>
             <span className="text-[#002244]">Speak</span>
           </h2>
